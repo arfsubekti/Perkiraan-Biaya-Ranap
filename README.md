@@ -28,7 +28,13 @@ Kontribusi Anda, sekecil apapun, sangat berarti!
 ## Peluang Kerjasama
 
 Saya membuka peluang kerjasama dengan developer, rumah sakit, startup, dan komunitas kesehatan.  
-Ingin mengembangkan bersama? Hubungi saya di **subektifanny46@gmail.com** atau [LinkedIn](https://www.linkedin.com/in/fanny-subekti/).
+Ingin mengembangkan bersama? Hubungi saya melalui:
+
+- 📧 Email: **subektifanny46@gmail.com**
+- 🌐 LinkedIn: [Fanny Faqih Subekti](https://www.linkedin.com/in/fanny-faqih-subekti/)
+- 📸 Instagram: [arf.subekti](https://instagram.com/arf.subekti)
+- ▶️ YouTube: [Programmer Baperan](https://www.youtube.com/@ProgrammerBaperan)
+- 👍 Facebook: [Fanny Faqih Subekti](https://facebook.com/fannyfaqihsubekti)
 
 ## Cara Memulai
 
